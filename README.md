@@ -264,7 +264,7 @@ Real-time email notification generated after a successful Console Login event.
 
 Analyzer configured to monitor AWS resources for unintended external access.
 
-![](screeenshots/09-iam-access-analyzer.png)
+![](screenshots/09-iam-access-analyzer.png)
 
 ---
 
