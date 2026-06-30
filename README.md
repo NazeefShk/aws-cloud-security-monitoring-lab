@@ -58,6 +58,15 @@ This project simulates how organizations monitor AWS account activity and automa
 - [Skills Demonstrated](#-skills-demonstrated)
 - [Future Improvements](#-future-improvements)
 
+## 📚 Documentation
+
+For detailed implementation guides:
+
+- 📄 [Project Overview](documentation/project-overview.md)
+- ⚙️ [Setup Guide](documentation/setup-guide.md)
+- 🧪 [Testing & Validation](documentation/testing-validation.md)
+
+
 ## ⚙️ AWS Services Used
 
 | Service | Purpose |
@@ -388,12 +397,4 @@ Possible enhancements include:
 If you found this project helpful, feel free to ⭐ this repository.
 
 This project was created for learning, portfolio development, and demonstrating practical AWS Cloud Security Monitoring concepts.
-
-## 📚 Documentation
-
-For detailed implementation guides:
-
-- 📄 [Project Overview](documentation/project-overview.md)
-- ⚙️ [Setup Guide](documentation/setup-guide.md)
-- 🧪 [Testing & Validation](documentation/testing-validation.md)
 
