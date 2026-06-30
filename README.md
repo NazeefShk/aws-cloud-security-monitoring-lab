@@ -248,7 +248,7 @@ CloudWatch Alarm configured to monitor Console Login activity.
 
 SNS Topic configured for security notifications.
 
-![]()
+![](screenshots/07-sns-topic.png)
 
 ---
 
@@ -264,7 +264,7 @@ Real-time email notification generated after a successful Console Login event.
 
 Analyzer configured to monitor AWS resources for unintended external access.
 
-![]()
+![](screeenshots/09-iam-access-analyzer.png)
 
 ---
 
